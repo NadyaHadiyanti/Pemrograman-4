@@ -1,0 +1,13 @@
+NetBeans: Deploying on Apache Tomcat or TomEE
+    profile mode: false
+    debug mode: false
+    force redeploy: true
+Undeploying ...
+undeploy?path=/Praktikum2
+OK - Undeployed application at context path /Praktikum2
+In-place deployment at D:\Nadya dan Vira\Nadya\Tugas\Tugas kuliah\Semester 6\Pemrograman 4\praktikum2\target\praktikum2-1.0-SNAPSHOT
+deploy?config=file%3A%2FC%3A%2FUsers%2FNADIAR%7E1%2FAppData%2FLocal%2FTemp%2Fcontext529949144628771262.xml&path=/Praktikum2
+OK - Deployed application at context path /Praktikum2
+Start is in progress...
+start?path=/Praktikum2
+OK - Started application at context path /Praktikum2
